@@ -1,103 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/api-documentation-openapi/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/api-documentation-openapi/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/authentication/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/authentication/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/background-jobs-bullmq/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/background-jobs-bullmq/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/ci-cd-github-actions/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/ci-cd-github-actions/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/core-concepts/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/core-concepts/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/database-prisma/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/database-prisma/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/deployment/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/deployment/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/email-configuration/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/email-configuration/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/file-upload-architecture/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/file-upload-architecture/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/frontend-openapi-setup/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/frontend-openapi-setup/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/getting-started/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/getting-started/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/introduction/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/introduction/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/project-structure/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/project-structure/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/rag-intelligence-pipeline/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/rag-intelligence-pipeline/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/socketio-service/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/socketio-service/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/testing/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/testing/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/troubleshooting-FAQ/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/troubleshooting-FAQ/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/routes-documentations/admin-routes/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/routes-documentations/admin-routes/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/routes-documentations/agent-routes/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/routes-documentations/agent-routes/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/routes-documentations/auth-routes/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/routes-documentations/auth-routes/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/routes-documentations/file-routes/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/routes-documentations/file-routes/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/routes-documentations/token-routes/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/routes-documentations/token-routes/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/routes-documentations/upload-routes/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/routes-documentations/upload-routes/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
     <url>
-         <loc>https://aymenkani.github.io/nodejs-starter-template-lv1/routes-documentations/user-routes/</loc>
+         <loc>https://aymenkani.github.io/docs.nodejs-starter-template-ai-v2/routes-documentations/user-routes/</loc>
          <lastmod>2025-12-20</lastmod>
     </url>
 </urlset>
